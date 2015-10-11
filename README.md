@@ -1,4 +1,6 @@
 # Current Build Status
+
+[![Join the chat at https://gitter.im/jvinod/openstorage](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jvinod/openstorage?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](http://emma.openstorage.org/buildStatus/icon?job=Openstorage&style=plastic)](http://emma.openstorage.org/job/Openstorage/)
 
 # About Open Storage
